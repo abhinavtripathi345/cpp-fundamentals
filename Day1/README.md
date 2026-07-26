@@ -8,6 +8,8 @@
 - Basic Operators
 
 ## Programs
+addition of two numbers
+leap year code
 
 
 ## Notes
